@@ -238,10 +238,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 If you encounter any issues or have questions, please:
 1. Check the troubleshooting section above
 2. Open an issue on GitHub
-3. Contact [your-email@example.com]
+3. Contact [kaifzakey22@gmail.com]
 
 ---
 
-**Happy Coding!** 🎉
-
-> **Note**: Remember to replace `yourusername` in the clone URL with your actual GitHub username and update any placeholder information with your specific details.
+**vibe Code!** 🎉
