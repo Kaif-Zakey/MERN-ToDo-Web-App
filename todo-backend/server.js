@@ -14,7 +14,7 @@ app.use(cors());
 // let todos = [];
 
 //Connect to MongoDB
-mongoose.connect('mongodb+srv://kaif:kaif2003@mini-pos.6nr1jvf.mongodb.net/mern-app')
+mongoose.connect('DB URl')
 .then(()=>{
     console.log('Connected to MongoDB');
 })
