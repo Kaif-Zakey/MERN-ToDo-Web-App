@@ -133,7 +133,7 @@ Content-Type: application/json
 
 **Update a todo:**
 ```bash
-PUT http://localhost:8000/todos/686b7fab14137961e9548a2d
+PUT http://localhost:8000/todos/id
 Content-Type: application/json
 
 {
@@ -144,7 +144,7 @@ Content-Type: application/json
 
 **Delete a todo:**
 ```bash
-DELETE http://localhost:8000/todos/686b7fab14137961e9548a2d
+DELETE http://localhost:8000/todos/id
 ```
 
 ## 📱 Application Usage
